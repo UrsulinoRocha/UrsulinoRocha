@@ -1,4 +1,4 @@
-# Olá! Eu sou [Seu Nome] 👋
+# Olá! Eu sou Ursulino 👋
 
 Sou apaixonado por tecnologia e qualidade de software, com experiência em *suporte técnico, **testes manuais, **automação de testes* e conhecimento prático em diversas tecnologias de desenvolvimento e banco de dados.
 
@@ -38,5 +38,5 @@ Atuo com foco em garantir que sistemas funcionem de forma estável, eficiente e 
 
 ### Conecte-se comigo:
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario/)
-- [E-mail](mailto:seuemail@exemplo.com)
+- [LinkedIn](https://www.linkedin.com/in/ursulinorocha/)
+- [E-mail](mailto:ursulinorocha9@gmail.com)
