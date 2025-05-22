@@ -1,50 +1,42 @@
-<h2 align = "center"> Hi, I'm Ursulino </h2>
-<h3 align = "center"> Technology lover </h3>
-<div align="center"><p>
+# Olá! Eu sou [Seu Nome] 👋
 
-💼 Systems development <br>
-🎓 Systems Analysis and Development Student<br>
-📌 Web Development Enthusiast<br>
-🌱 Currently learning JavaScript and its Frameworks<br>
+Sou apaixonado por tecnologia e qualidade de software, com experiência em *suporte técnico, **testes manuais, **automação de testes* e conhecimento prático em diversas tecnologias de desenvolvimento e banco de dados.
 
-<h3 align = "center"> A little about me: </h3>
-Systems Analysis and Development student, passionate about technology, I had my first contact with programming in 2021, the year I won my scholarship at a public college, since then I have always sought to improve myself and learn new technologies.
+Atuo com foco em garantir que sistemas funcionem de forma estável, eficiente e com uma boa experiência para o usuário final.
 
-Knowledge in: Object Oriented Programming (POO), Architecture and software development in the MVC model, Creation of websites paying attention to Web Accessibility, Database Modeling and Agile Methodologies.
+## O que eu faço:
 
+- Suporte técnico N1 e N2 em sistemas corporativos  
+- Testes manuais e automatizados com *Python* e *Robot Framework*  
+- Testes de API utilizando *Postman* e bibliotecas Python  
+- Manipulação de dados com *SQL Server* e *MySQL*  
+- Desenvolvimento e manutenção de *stored procedures*  
+- Automação de testes funcionais com *Selenium, **Pytest* e *Robot*  
+- Noções de desenvolvimento web com *HTML, **CSS* e *JavaScript*  
+- Conhecimentos em *Java* para testes e lógica de programação  
+- Versionamento com *Git*
 
-<h3 align = "center"> Connect to me: </h3>
-<a href="https://www.linkedin.com/in/ursulinorocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://discord.gg/cW82hJHy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href="mailto:sulinocosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  <h1></h1> 
-<h3 align = "center"> Technologies / Tools </h3>
-<div style="display: inline_block"><br>
-   <img alt="JavaScript" height ="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-⠁ <img alt="HTML5"      height ="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-⠁ <img alt="CSS"        height ="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-⠁ <img alt="Bootstrap"  height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-⠁ <img alt="Java"       height="40em" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-⠁ <img alt="SQL"        height="40em" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-⠁ <img alt="Mysql"      height="40em" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<!--⠁ <img alt="nodejs"     height="40em"  src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">-->
-⠁  <img alt="Git"        height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-⠁ <img alt="Canva"      height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-<!--⠁ <img alt="Github"     height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> -->
-⠁ <img alt="Vs-Code"    height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-⠁ <img alt="Figma"      height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-⠁ <img alt="Figma"      height="35em" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
+## Tecnologias que utilizo:
 
-<h1></h1>
-<!--<a href="https://github.com/Ursulinocosta">-->
-<!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ursulinocosta&theme=dark" alt = "UrsulinoRocha" />
-<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ursulinocosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
-<!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ursulinocosta&layout=compact&langs_count=7&theme=dark"/>
- 
-<!--</div></br>
-<img  src = "https://github-readme-streak-stats.herokuapp.com/?user=ursulinocosta&theme=dark" alt = "ursulinocosta" />
-<img aling = "center" alt="gif" src="https://media.giphy.com/media/ThudM9Zg6wKEmkeBZK/giphy.gif" height="200" width="200"/>
-[Snake animation](https://github.com/Ursulinocosta/Ursulinocosta/blob/output/github-contribution-grid-snake.svg)</div>-->
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat&logo=robot-framework&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
- 
+## Estou aprendendo mais sobre:
+
+- Boas práticas de QA e automação de testes  
+- Integração de testes com *CI/CD*  
+- Melhoria contínua em lógica de programação e desenvolvimento web
+
+---
+
+### Conecte-se comigo:
+
+- [LinkedIn](https://www.linkedin.com/in/seu-usuario/)
+- [E-mail](mailto:seuemail@exemplo.com)
