@@ -1,18 +1,18 @@
 # Olá! Eu sou Ursulino 👋
 
-Sou apaixonado por tecnologia e qualidade de software, com experiência em *suporte técnico, **testes manuais, **automação de testes* e conhecimento prático em diversas tecnologias de desenvolvimento e banco de dados.
+Sou apaixonado por tecnologia e qualidade de software, com experiência em *suporte técnico*, *testes manuais*, *automação de testes* e conhecimento prático em diversas tecnologias de desenvolvimento e banco de dados.
 
 Atuo com foco em garantir que sistemas funcionem de forma estável, eficiente e com uma boa experiência para o usuário final.
 
 ## O que eu faço:
 
-- Suporte técnico N1 e N2 em sistemas corporativos  
+- Suporte técnico N1 e N2 em sistemas
 - Testes manuais e automatizados com *Python* e *Robot Framework*  
 - Testes de API utilizando *Postman* e bibliotecas Python  
 - Manipulação de dados com *SQL Server* e *MySQL*  
 - Desenvolvimento e manutenção de *stored procedures*  
-- Automação de testes funcionais com *Selenium, **Pytest* e *Robot*  
-- Noções de desenvolvimento web com *HTML, **CSS* e *JavaScript*  
+- Automação de testes funcionais com *Selenium*, *Pytest* e *Robot*  
+- Noções de desenvolvimento web com *HTML*, *CSS* e *JavaScript*  
 - Conhecimentos em *Java* para testes e lógica de programação  
 - Versionamento com *Git*
 
