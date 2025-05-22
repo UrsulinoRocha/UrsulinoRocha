@@ -1,4 +1,4 @@
-# Olá! Eu sou Ursulino 👋
+# Olá! Eu sou o Ursulino 👋
 
 Sou apaixonado por tecnologia e qualidade de software, com experiência em *suporte técnico*, *testes manuais*, *automação de testes* e conhecimento prático em diversas tecnologias de desenvolvimento e banco de dados.
 
@@ -16,7 +16,7 @@ Atuo com foco em garantir que sistemas funcionem de forma estável, eficiente e 
 - Conhecimentos em *Java* para testes e lógica de programação  
 - Versionamento com *Git*
 
-## Tecnologias que utilizo:
+## Tecnologias:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -28,7 +28,7 @@ Atuo com foco em garantir que sistemas funcionem de forma estável, eficiente e 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Estou aprendendo mais sobre:
+## Estou aprendendo sobre:
 
 - Boas práticas de QA e automação de testes  
 - Integração de testes com *CI/CD*  
