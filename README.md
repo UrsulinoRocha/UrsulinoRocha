@@ -31,7 +31,13 @@ Atuo com foco em garantir que sistemas funcionem de forma estável, eficiente e 
 ---
 
 <!--<a href="https://github.com/Ursulinocosta">-->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=UrsulinoRocha&theme=dark" alt = "UrsulinoRocha" img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrsulinoRocha&layout=compact&langs_count=7&theme=dark"/>
+<table>
+  <tr><td>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=UrsulinoRocha&theme=dark" alt="UrsulinoRocha"/>
+      </td><td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrsulinoRocha&layout=compact&langs_count=7&theme=dark"/>
+    </td></tr>
+</table>
 
 ---
 
