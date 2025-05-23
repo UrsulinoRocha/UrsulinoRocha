@@ -31,9 +31,7 @@ Atuo com foco em garantir que sistemas funcionem de forma estável, eficiente e 
 ---
 
 <!--<a href="https://github.com/Ursulinocosta">-->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=UrsulinoRocha&theme=dark" alt = "UrsulinoRocha" />
-<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ursulinocosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrsulinoRocha&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=UrsulinoRocha&theme=dark" alt = "UrsulinoRocha" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrsulinoRocha&layout=compact&langs_count=7&theme=dark"/>
 
 ---
 
@@ -49,6 +47,3 @@ Atuo com foco em garantir que sistemas funcionem de forma estável, eficiente e 
 
 <a href="https://www.linkedin.com/in/ursulinorocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="mailto:ursulinorocha9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-- [LinkedIn](https://www.linkedin.com/in/ursulinorocha/)
-- [E-mail](mailto:ursulinorocha9@gmail.com)
