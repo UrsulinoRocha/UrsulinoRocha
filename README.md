@@ -12,7 +12,7 @@ Atuo com foco em garantir que sistemas funcionem de forma estável, eficiente e 
 - Manipulação de dados com *SQL Server* e *MySQL*  
 - Desenvolvimento e manutenção de *stored procedures*  
 - Automação de testes funcionais com *Selenium*, *Pytest* e *Robot*  
-- Noções de desenvolvimento web com *HTML*, *CSS* e *JavaScript*  
+- Desenvolvimento web com *HTML*, *CSS* e *JavaScript*  
 - Conhecimentos em *Java* para testes e lógica de programação  
 - Versionamento com *Git*
 
@@ -27,6 +27,12 @@ Atuo com foco em garantir que sistemas funcionem de forma estável, eficiente e 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+
+<!--<a href="https://github.com/Ursulinocosta">-->
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=UrsulinoRocha&theme=dark" alt = "UrsulinoRocha" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ursulinocosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrsulinoRocha&layout=compact&langs_count=7&theme=dark"/>
 
 ## Estou aprendendo sobre:
 
